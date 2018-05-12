@@ -1,0 +1,38 @@
+_repo: The-Development-of-Rates-of-PostageAn-Historical-and-Analytical-Study_34011
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Samuel, Herbert Louis Samuel, Viscount
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '36648'
+    url: http://www.gutenberg.org/2009/agents/36648
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Samuel,_1st_Viscount_Samuel
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, A. D. (Alfred Daniel)
+    alias: Smith, Alfred Daniel
+    gutenberg_agent_id: '36647'
+    url: http://www.gutenberg.org/2009/agents/36647
+description: Entwicklung Posttarife in England / Tarife Briefpost England, Kanada,
+  USA, Frankreich, Deutschland / Tarife f. Zeitungen England, Kanada, USA, Frankreich,
+  Deutschland / Tarife Paketpost England, USA, Frankreich, Deutschland / Tax - Ermässigungen
+  f. Bücher, Muster, Handelspapiere, Postkarten, Blindenschrift - erzeugnisse USA
+  u. Kanada / Lokal - Tarife / Kostenanalyse / Beilagen Tax - Tabellen.
+gutenberg_issued: '2010-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34011'
+  lccn: '18002506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postal rates'
+title: 'The Development of Rates of Postage: An Historical and Analytical Study'
+url: http://www.gutenberg.org/ebooks/34011
